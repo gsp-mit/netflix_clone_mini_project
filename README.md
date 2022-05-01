@@ -1,4 +1,4 @@
-# Netflix CLone using flutter
+# Netflix Clone using flutter
 
 A new Flutter project.
 Starter code and inspiration from Marcus Ng
