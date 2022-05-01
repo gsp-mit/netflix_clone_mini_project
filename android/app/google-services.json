@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098825161315",
+    "project_id": "madlab-miniproject",
+    "storage_bucket": "madlab-miniproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098825161315:android:5e03ee90559d373e6e7656",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098825161315-nfu6iedutn1hfbl2rhb59n9keftijg8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgW6ZnVCTzlW7g0ViAcAgFYZKI9eoxq4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098825161315-nfu6iedutn1hfbl2rhb59n9keftijg8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
